@@ -1,5 +1,5 @@
 # ghosted
-A simple arcade game for a class project
+A simple arcade game for a class project. This game was made using Processing 3.5.4
 
 The game consists of two game modes: bone rush and pumpkin rush. Instead of having difficulty levels, the user can choose between two different games altogether. 
 In bone rush, the player uses the arrow keys to move the player character left and right. The objective is to survive as long as possible and achieve a high score. The character is stuck to the bottom of the screen and must evade falling bones that cover different sections of the play area. The bones fall in a random pattern. If the bones touch the player, the game is over, and the user can choose to start again. There are also randomly generated candies, which the player can collide with to eat them and gain 100 points. When the player hits a candy, it pops and disappears. As the player collects points, the bones and candies fall faster in proportion with the player’s score. This way, the game gets progressively more difficult.  
